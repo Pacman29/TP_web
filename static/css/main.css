@@ -91,4 +91,7 @@ main {
     margin: 40px 0 20px;
     border-bottom: 1px solid #2d2f31;
 }
+
+.myhref {
+    text-decoration: none;
 }
