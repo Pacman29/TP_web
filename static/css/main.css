@@ -1,0 +1,94 @@
+nav {
+    height: 102px;
+    background: #2d2f31 !important;
+}
+
+.navbar-toggle {
+    margin-top: 32px;
+}
+
+form {
+    border: none !important;
+}
+
+.search-input {
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.search-form {
+    max-width: 350px;
+    padding-left: 100px;
+    float: left;
+    height: 100px;
+    margin: 0px;
+    padding-top: 32px;
+}
+
+@media all and (max-width: 625px)
+{
+    .search-form {
+        max-width: 190px;
+        padding-left: 10px;
+    }
+
+}
+
+.search-form > div > span {
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+
+.brand {
+    float: left;
+    height: 100px;
+    font-size: 30px;
+    color: aliceblue;
+    padding-top: 32px;
+    padding-left: 30px;
+}
+
+.avatar {
+    float: left;
+}
+
+.avatar > img {
+    height: 70px;
+    margin-top: 15px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+.miniuser {
+    height: 90x;
+    width: 200px;
+}
+
+.miniuser-navbar {
+    float: right;
+    background: #2d2f31 !important;
+}
+
+.usermenu {
+    padding-top: 14px;
+}
+
+.username {
+    color: #fff;
+}
+
+.links {
+    padding: 0px;
+    list-style-type: none;
+}
+
+main {
+    width: 100%;
+}
+
+.block-header {
+    padding-bottom: 9px;
+    margin: 40px 0 20px;
+    border-bottom: 1px solid #2d2f31;
+}
+}
