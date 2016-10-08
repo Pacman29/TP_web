@@ -1,3 +1,7 @@
+html, body {
+    min-width: 475px;
+}
+
 nav {
     height: 102px;
     background: #2d2f31 !important;
